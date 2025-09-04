@@ -1,5 +1,10 @@
 # 📘 Churn Prediction ML API
 
+# 📘 Churn Prediction ML API  
+![CI](https://img.shields.io/github/actions/workflow/status/srilatham819/churn-prediction-ml/ci.yml?branch=main)
+![Docker Image](https://img.shields.io/badge/docker%20image-ghcr.io%2Fsrilatham819%2Fchurn--api-blue)
+
+
 ## 📌 Overview
 End-to-end machine learning project that predicts telecom customer churn and exposes a production-style **FastAPI** service. It includes data download, training, stored artifacts, `/predict` and `/metrics` endpoints, **Docker** packaging, and **CI/CD with GitHub Actions**.
 
